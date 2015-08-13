@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Unit Test in Javascript",
+  "author": "Ignacio Barbieri <ignacio.barbieri@mercadolibre.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibarbieri/jasmine-unit-test"
+  },
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.10"
+  }
+}
